@@ -1,6 +1,7 @@
 # 💼 HireFi – On-Chain Applicant & Employee Registry
 
-## 📖 ![Uploading Screenshot (2).png…]()
+![Uploading Screenshot (2).png…]()
+
 
 Project Description
 **HireFi** is a beginner-friendly **Solidity smart contract** that allows organizations to manage applicants and employees **directly on the blockchain**.  
