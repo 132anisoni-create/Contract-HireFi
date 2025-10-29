@@ -3,7 +3,7 @@
 > A decentralized platform revolutionizing how freelancers and employers connect — powered by blockchain.
 
 ---
-![Uploading Screenshot (2).png…]()
+
 
 ## 📘 Project Description
 
@@ -11,6 +11,7 @@
 By leveraging blockchain technology, HireFi ensures transparent, secure, and automatic payments without intermediaries.
 
 Whether you're hiring a developer, a designer, or a consultant, **HireFi** makes freelancing safer and smarter.
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5d8b5a8a-9562-4556-a342-f6c0fbeec9ac" />
 
 ---
 
